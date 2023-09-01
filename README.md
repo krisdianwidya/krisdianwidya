@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisdianwidya
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front-end development, especially react js
+- I have 2 years experience of Frontend Development, especially with Vue js
+
 
 <!---
 krisdianwidya/krisdianwidya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
